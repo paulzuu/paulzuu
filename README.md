@@ -9,5 +9,5 @@ ML Engineer | Data Scientist, Passionate about Machine Learning and Computer Vis
 Python | SQL | Pytorch | NumPy | Pandas
 
 **CONTACT**  
-Telegram: https://t.me/hatsuyukki
+Telegram: https://t.me/hatsuyukki  
 E-mail: pasha-zubkov13@mail.ru
