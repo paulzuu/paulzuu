@@ -1,6 +1,5 @@
-## Hi there!
+## Hi there, I'm Pasha!
 
-[![Header](https://github.com/paulzuu/paulzuu/blob/main/assets/codman.png)]
 
 ML Engineer | Data Scientist, Passionate about Machine Learning and Computer Vision!
 
