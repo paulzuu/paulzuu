@@ -1,6 +1,6 @@
 ## Hi there!
 
-[!Header(https://github.com/paulzuu/paulzuu/blob/main/assets/codman.png)]
+[![Header](https://github.com/paulzuu/paulzuu/blob/main/assets/codman.png)]
 
 ML Engineer | Data Scientist, Passionate about Machine Learning and Computer Vision!
 
