@@ -3,7 +3,7 @@
 ML Engineer | Data Scientist, Passionate about Machine Learning and Computer Vision!
 
 **ABOUT ME**  
-Магистр силовой электроники, прошедший обучение в Deep Learning School при МФТИ. Интересуюсь задачами машинного обучения, анализа данных и компьютерного зрения.
+ML-инженер, студент программ Data Science Школы 21 Сбербанка и Deep Learning School в МФТИ.
 
 **LANGUAGE&TOOLS**  
 Python | SQL | Pytorch | NumPy | Pandas
