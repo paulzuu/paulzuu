@@ -1,6 +1,6 @@
 ## Hi there, I'm Pasha!
 
-ML Engineer | Data Scientist, Passionate about Machine Learning and Computer Vision!
+ML Engineer | Data Scientist
 
 **ABOUT ME**  
 ML-инженер, студент программ Data Science Школы 21 Сбербанка и Deep Learning School в МФТИ.
